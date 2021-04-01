@@ -8,3 +8,7 @@ add complit
 
 nihao main
 nihao dev
+nihao main2
+nihao dev2
+nihao test1
+nihao test2
